@@ -2,6 +2,7 @@ import argparse
 import signal
 import sys
 import logging
+import time
 from urllib.parse import urlencode
 from urllib.request import Request, urlopen
 
