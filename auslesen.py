@@ -5,6 +5,7 @@ import logging
 import time
 from urllib.parse import urlencode
 from urllib.request import Request, urlopen
+# https://github.com/Domifry/
 
 from rpi_rf import RFDevice
 
